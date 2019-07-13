@@ -109,12 +109,12 @@ author:
   name             : "David Cabrera Lozoya"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a goat. Sometimes."
-  location         : ""
+  location         : "Austin, TX"
   email            : david.cabrera.88@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: david.cabrera.88@gmail.com
+      #url: david.cabrera.88@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -136,7 +136,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "david.cabrera.88@gmail.com"
+      url: "https://twitter.com/dcabrera88"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
