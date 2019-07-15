@@ -1,12 +1,36 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /about/
+  - title: "Sitemap"
+    url: /sitemap/
+  - title: "Tags"
+    url: /tags/
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
+docs:
+  - title: "Tools and Environment Setup"
+    children:
+      - title: "Tools"
+        url: /tools/
+      - title: "Windows Environment"
+        url: /environment-win/
+      - title: "Emacs"
+        url: /emacs/
+      - title: "Scripts"
+        url: /scripts/
+  - title: "References"
+    children:
+      - title: "File Operations"
+        url: /fileops/
+      - title: "Regular Expressions"
+        url: /regex/
+      - title: "Emacs Register Usage"
+        url: /emacs-registers/
