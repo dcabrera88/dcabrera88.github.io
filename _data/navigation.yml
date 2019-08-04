@@ -18,10 +18,8 @@ main:
 docs:
   - title: "Tools and Environment Setup"
     children:
-      - title: "Tools"
-        url: /tools/
-      - title: "Windows Environment"
-        url: /environment-win/
+      - title: "Windows Setup"
+        url: /windowssetup/
       - title: "Emacs"
         url: /emacs/
       - title: "Scripts"
