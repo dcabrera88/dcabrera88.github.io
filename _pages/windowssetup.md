@@ -22,7 +22,7 @@ Note that the install locations for Emacs and Gnu Global are personal preference
 # Configuring Environment Variables
 1. Add to your PATH variable the following locations:
    1. `C:\Program Files\PuTTY\`
-   2. `C:\Git\bin\`
+   2. `C:\Program Files\Git\bin\`
    3. `C:\Program Files\GnuGlobal\glo663wb\bin\`
 2. Add the following environment variable `GIT_SSH` and set it to `C:\Program Files\PuTTY\plink.exe`
 
